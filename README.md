@@ -84,14 +84,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/DeepanjanaMishra/Leetcode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/DeepanjanaMishra/Leetcode_Solutions/tree/master/0100-same-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/DeepanjanaMishra/Leetcode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/DeepanjanaMishra/Leetcode_Solutions/tree/master/0100-same-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/DeepanjanaMishra/Leetcode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/DeepanjanaMishra/Leetcode_Solutions/tree/master/0100-same-tree) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -100,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/DeepanjanaMishra/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/DeepanjanaMishra/Leetcode_Solutions/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->

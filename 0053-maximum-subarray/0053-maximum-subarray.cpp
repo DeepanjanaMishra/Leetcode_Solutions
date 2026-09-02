@@ -5,7 +5,7 @@ public:
         int ans = nums[0];
         int n = nums.size();
 
-        for(int i = 1; i < nums.size(); i++) {
+        for(int i = 1; i < n ; i++) {
 
             current = max(nums[i], current + nums[i]);
 

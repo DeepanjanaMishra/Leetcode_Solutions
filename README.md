@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/DeepanjanaMishra/Leetcode_Solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/DeepanjanaMishra/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/DeepanjanaMishra/Leetcode_Solutions/tree/master/0152-maximum-product-subarray) |
+| [0209-minimum-size-subarray-sum](https://github.com/DeepanjanaMishra/Leetcode_Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/DeepanjanaMishra/Leetcode_Solutions/tree/master/0238-product-of-array-except-self) |
 | [0643-maximum-average-subarray-i](https://github.com/DeepanjanaMishra/Leetcode_Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/DeepanjanaMishra/Leetcode_Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/DeepanjanaMishra/Leetcode_Solutions/tree/master/0035-search-insert-position) |
+| [0209-minimum-size-subarray-sum](https://github.com/DeepanjanaMishra/Leetcode_Solutions/tree/master/0209-minimum-size-subarray-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/DeepanjanaMishra/Leetcode_Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/DeepanjanaMishra/Leetcode_Solutions/tree/master/0238-product-of-array-except-self) |
 ## Divide and Conquer
 |  |
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/DeepanjanaMishra/Leetcode_Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/DeepanjanaMishra/Leetcode_Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/DeepanjanaMishra/Leetcode_Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 <!---LeetCode Topics End-->
